@@ -1,2 +1,2 @@
-# background-generator
-gradient background generator (ztm project)
+# Background Generator
+Gradient background generator
